@@ -1,0 +1,7 @@
+.bg-hover{
+    transition: 0.8s;
+}
+.bg-hover:hover{
+    transform: scale(1.1);
+    background: #141E46;
+}
